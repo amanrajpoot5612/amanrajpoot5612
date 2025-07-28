@@ -5,8 +5,8 @@
   <a href="https://amanrajpoot.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/amanrajpoot5612" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/amanrajpoot5612" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dev.to/amanrajpoot5612" target="_blank"><img src="https://img.shields.io/badge/Dev.to-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-  <a href="https://twitter.com/amanrajpoot_56" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<!--   <a href="https://dev.to/amanrajpoot5612" target="_blank"><img src="https://img.shields.io/badge/Dev.to-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white" /></a> -->
+<!--   <a href="https://twitter.com/amanrajpoot_56" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 </p>
 
 ---

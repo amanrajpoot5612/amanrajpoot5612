@@ -1,42 +1,77 @@
-# Hi, I’m Aman Rajpoot 👋
+<h1 align="center">Hi 👋, I'm Aman Rajpoot</h1>
+<h3 align="center">Full-Stack MERN Developer | AI Integrator | Product-Focused Builder</h3>
 
-I'm a passionate **Full-Stack Developer (MERN)** who loves building real-world, scalable applications. I have experience across frontend, backend, and cloud deployments—and I enjoy working on projects that have real impact.
+<p align="center">
+  <a href="https://amanrajpoot.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/amanrajpoot5612" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/amanrajpoot5612" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/amanrajpoot5612" target="_blank"><img src="https://img.shields.io/badge/Dev.to-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://twitter.com/amanrajpoot_56" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
-## 🔭 Current Focus:
-- Building and scaling full-stack projects using **React, Node, MongoDB, Express**
-- Integrating AI features into modern web apps (OpenAI, Gemini APIs)
-- Crafting responsive and accessible UIs with **TailwindCSS + Framer Motion**
+---
 
-## 🌱 Learning & Growth:
-- Final-year B.Tech student, specializing in AI & ML
-- Constantly learning system design, web security, and DevOps best practices
-- Exploring advanced React concepts and productivity tools
+### 🚀 About Me
 
-## 💼 Notable Projects:
-- **Bugsy (Video Platform)** – MERN stack app with JWT, Cloudinary, role-based access, and a custom video player  
-  🔗 Live: https://amanrajpoot-bugsy.vercel.app/
+- 👨‍💻 Coding since 2022 — building real-world, product-focused web apps.
+- 🧠 Currently diving deep into **Prisma, Docker, OpenAI APIs**, and **AI-enhanced web apps**.
+- 💡 I love turning ideas into fast, responsive, real-world apps with clean UI/UX and smart backend logic.
+- 💬 Ask me about **MERN Stack**, **JWT Auth**, **API Architecture**, and integrating **AI tools into SaaS**.
 
-- **Portfolio Website** – Modern, responsive dev portfolio built with React and Tailwind  
-  🔗 Live: https://amanrajpoot.vercel.app/
+---
 
-## 💡 Skills:
-- **Languages**: JavaScript, C++, Python (basic)
-- **Frontend**: React.js, TailwindCSS, Framer Motion
-- **Backend**: Node.js, Express.js, MongoDB, Mongoose
-- **Auth & API**: JWT, OAuth, REST APIs
-- **Tools**: Git, Postman, Render, Vercel, VSCode
+### 🛠️ Tech Stack
 
-## 🧠 AI Tools:
-- Integrated OpenAI/Gemini APIs for content generation and smart UI
-- Building smarter dashboards and resume tools using LLMs
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,framer" />
 
-## 📄 Resume & Links:
-- Resume: [View My Resume](https://drive.google.com/file/d/1NAsI7SuyTew4kuZjugw4NUeZswY3vnb3/view?usp=sharing)
-- GitHub: https://github.com/amanrajpoot5612
-- Portfolio: https://amanrajpoot.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/amanrajpoot5612/
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-## 🤝 Let’s Collaborate!
-Always open to internships, projects, or collaboration opportunities. Let’s connect and build something amazing.
+**Tools & Extras**  
+<img src="https://skillicons.dev/icons?i=github,git,vercel,cloudinary,docker,postman" />  
+JWT • Multer • REST APIs • CI/CD • .env Configs
 
-📩 Drop a message: amanrajpoot5612@gmail.com
+---
+
+### 📦 Featured Projects
+
+#### 🎬 Bugsy – Full-Stack Video Streaming Platform  
+🌐 [Live App](https://amanrajpoot-bugsy.vercel.app) | 📁 [Repo](https://github.com/amanrajpoot5612/video_streaming_platform)
+
+> A full-scale video streaming platform with custom video player, JWT auth, role-based content access, Cloudinary uploads, and RESTful backend. Built to scale with performance testing and responsive UI/UX.
+
+- 🧠 Auth: Secure login with JWT + refresh tokens & cookies  
+- 🚀 Backend: 15+ APIs, MongoDB schemas, RBAC middleware  
+- 📹 Player: Custom React player with skip, mute, and speed controls  
+- ⚙️ DevOps: Deployed via Render & Vercel with CI & load testing (26K+ requests/sec tested)
+
+---
+
+#### 🧩 My Developer Portfolio  
+🌐 [Live Site](https://amanrajpoot.vercel.app/) | 📁 [Repo](https://github.com/amanrajpoot5612/Portfolio)
+
+> My modern, responsive portfolio showcasing projects, skills, and contact links. Smooth animations via Framer Motion and designed to reflect my product-first approach.
+
+---
+
+### 📫 Reach Me
+- 📧 Email: amanrajpoot5612@gmail.com  
+- 📄 [Resume (Google Drive)](https://drive.google.com/file/d/1NAsI7SuyTew4kuZjugw4NUeZswY3vnb3/view?usp=sharing)
+
+---
+
+### ⚡ Fun Facts
+
+- I enjoy refining performance metrics using Lighthouse, GTMetrix & Loader.io  
+- I'm passionate about building real apps, not just clones  
+- I believe in **clean code, smart design, and building with purpose** 🧠
+
+---
+
+> _“Code with clarity, build with purpose.”_
+
+---
+
+⭐ If you like my work, don’t forget to **star** my repos and connect!
+

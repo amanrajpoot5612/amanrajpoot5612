@@ -37,7 +37,7 @@ JWT • Multer • REST APIs • CI/CD • .env Configs
 ### 📦 Featured Projects
 
 #### 🎬 Bugsy – Full-Stack Video Streaming Platform  
-🌐 [Live App](https://amanrajpoot-bugsy.vercel.app) | 📁 [Repo](https://github.com/amanrajpoot5612/video_streaming_platform)
+🌐 [Live App](https://amanrajpoot-bugsy.vercel.app) | 📁 [Repo](https://github.com/amanrajpoot5612/Video-Streaming-Platform-Full-Stack-)
 
 > A full-scale video streaming platform with custom video player, JWT auth, role-based content access, Cloudinary uploads, and RESTful backend. Built to scale with performance testing and responsive UI/UX.
 
@@ -49,7 +49,7 @@ JWT • Multer • REST APIs • CI/CD • .env Configs
 ---
 
 #### 🧩 My Developer Portfolio  
-🌐 [Live Site](https://amanrajpoot.vercel.app/) | 📁 [Repo](https://github.com/amanrajpoot5612/Portfolio)
+🌐 [Live Site](https://amanrajpoot.vercel.app/) | 📁 [Repo](https://github.com/amanrajpoot5612/portfolio-react)
 
 > My modern, responsive portfolio showcasing projects, skills, and contact links. Smooth animations via Framer Motion and designed to reflect my product-first approach.
 

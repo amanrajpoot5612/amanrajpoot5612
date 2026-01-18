@@ -14,7 +14,7 @@
 ### 🚀 About Me
 
 - 👨‍💻 Coding since 2022 — building real-world, product-focused web apps.
-- 🧠 Currently diving deep into **Prisma, Docker, OpenAI APIs**, and **AI-enhanced web apps**.
+- 🧠 Currently diving deep into **Prisma, NextJs, AWS, Docker, OpenAI APIs**, and **AI-enhanced web apps**.
 - 💡 I love turning ideas into fast, responsive, real-world apps with clean UI/UX and smart backend logic.
 - 💬 Ask me about **MERN Stack**, **JWT Auth**, **API Architecture**, and integrating **AI tools into SaaS**.
 
@@ -49,7 +49,7 @@ JWT • Multer • REST APIs • CI/CD • .env Configs
 ---
 
 #### 🧩 My Developer Portfolio  
-🌐 [Live Site](https://amanrajpoot.vercel.app/) | 📁 [Repo](https://github.com/amanrajpoot5612/portfolio-react)
+🌐 [Live Site](https://www.amanrajput.online/) | 📁 [Repo](https://github.com/amanrajpoot5612/portfolio-aman)
 
 > My modern, responsive portfolio showcasing projects, skills, and contact links. Smooth animations via Framer Motion and designed to reflect my product-first approach.
 
